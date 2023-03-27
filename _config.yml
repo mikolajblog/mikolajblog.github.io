@@ -20,7 +20,7 @@ description: "Mój pierwszy blog. Pewnie nikt inny go nie przeczyta, ale cóż..
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
